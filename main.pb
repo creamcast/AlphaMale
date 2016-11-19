@@ -139,11 +139,3 @@ Procedure Main()
 EndProcedure
 
 Main()
-; IDE Options = PureBasic 5.41 LTS (Windows - x64)
-; CursorPosition = 75
-; FirstLine = 68
-; Folding = -
-; EnableUnicode
-; EnableXP
-; UseIcon = bateman.ico
-; Executable = C:\Users\Mack\Desktop\Alphamale.exe
