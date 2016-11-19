@@ -1,6 +1,9 @@
 # AlphaMale
 a Windows program that will overlay a translucent image on the desktop.
 
+# Download (x64)
+https://github.com/creamcast/AlphaMale/blob/master/AlphaMale.exe
+
 # Features
 * Overlays a translucent image on the desktop
 * Dynamically adjust alpha values for the image
